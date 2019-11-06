@@ -13,4 +13,9 @@
     <string name="menu_tools">Tools</string>
     <string name="menu_share">Share</string>
     <string name="menu_send">Send</string>
+
+    <string name="button_label_enabled">Send</string>
+    <string name="button_label_disabled">Send22</string>
+    <string name="unelevated_button_label_enabled">wwwwww</string>
+
 </resources>
