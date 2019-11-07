@@ -17,5 +17,16 @@
     <string name="button_label_enabled">Send</string>
     <string name="button_label_disabled">Send22</string>
     <string name="unelevated_button_label_enabled">wwwwww</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Ingresar</string>
+    <string name="action_sign_in_facebook">Ingresar con Facebook</string>
+    <string name="action_sign_in_google">Ingresar con Google</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Ingrese un Email</string>
+    <string name="invalid_password">Como minimo 5 caracteres</string>
+    <string name="login_failed">"Login failed"</string>
 
 </resources>
